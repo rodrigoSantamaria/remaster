@@ -3,3 +3,4 @@ packer*
 frecuencias\w+.py
 remasterLocal.py
 newRemasterTests.py
+*.pyc
