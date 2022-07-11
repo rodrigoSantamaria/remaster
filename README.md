@@ -9,6 +9,10 @@ _Remaster_ is a python3 script to:
 
 We provide it with some sample data.
 
+Licence
+-------
+_Remaster_ is distributed under a GLP 3.0 Licence.
+
 Usage example
 -------------
 
